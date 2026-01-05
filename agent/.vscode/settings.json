@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        ".venv/lib64"
-    ],
-    "python.analysis.typeCheckingMode": "basic"
-}
